@@ -1,4 +1,4 @@
-# Citystroom
+# City Stroom
 
 Urban intelligence platform for city governments — heat, air, energy and people flows on one map.
 
